@@ -7,5 +7,7 @@ package com.pojo.test;
 public class Hello1 {
     public static void main(String[] args) {
         System.out.println("haha");
+        System.out.println("在线更新");
+        
     }
 }
